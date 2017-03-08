@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\bin\Debug\TryCatchExample.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\bin\Debug\TryCatchExample.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\bin\Debug\TryCatchExample.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\obj\Debug\TryCatchExample.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\obj\Debug\TryCatchExample.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryCatchExample\TryCatchExample\obj\Debug\TryCatchExample.pdb
